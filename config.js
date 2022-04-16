@@ -28,10 +28,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'ktdprjct bot
-
-
-62895342581896'
+global.packname = 'ktdprjct bot\n\n\n62895342581896'
 global.author = 'ktdprjct'
 global.email = 'ktdproject01@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='        
