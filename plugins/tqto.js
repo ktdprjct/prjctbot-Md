@@ -38,7 +38,6 @@ https://github.com/amiruldev20
                displayText: '💠 Source Code',
                url: 'https://github.com/ktdprjct/prjctbot-Md'
              }
-
            },
            {
              quickReplyButton: {
