@@ -1,7 +1,7 @@
 {
-    "name": "ShiraoriBOT-Md",
-    "version": "0.5.1",
-    "description": "Simle Bot WhatsApp with Baileys Multi Device",
+    "name": "prjctBOT-Md",
+    "version": "1.0.0",
+    "description": "Simple Bot WhatsApp with Baileys Multi Device",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -20,19 +20,18 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+    "homepage": "https://github.com/ktdprjct/prjctbot-Md",
     "author": {
-        "name": "Ilman"
+        "name": "ktdprjct"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ilmanhdyt/ShiraoriBOT-Md.git"
+        "url": "git+https://github.com/ktdprjct/prjctbot-Md.git"
     },
     "bugs": {
-        "url": "https://github.com/ilmanhdyt/ShiraoriBOT-Md/issues"
+        "url": "https://github.com/ktdprjct/prjctbot-Md/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
